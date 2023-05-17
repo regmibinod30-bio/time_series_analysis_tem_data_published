@@ -1,1 +1,1 @@
-This dir documents abstract of already published paper, an R script and figures.
+This dir documents abstract of already published paper, an R script and figures. The time series temperature data for about 30 years were analyzed using new algorithm, dynamic linear model (DEM). We found this algorithm useful for temporal and spatial imputation of missing data and stations. We recommend dynamic linear model as a useful tool for temperature change modeling particularly for the remote geographical region where temperature record is sparse. 
